@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15472" started-at="2020-03-02T07:11:52Z" finished-at="2020-03-02T07:12:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15472" started-at="2020-03-02T07:11:52Z" finished-at="2020-03-02T07:12:07Z">
+      <class name="createhome.Testcase1">
+        <test-method status="PASS" signature="mvntest()[pri:0, instance:createhome.Testcase1@7dc7cbad]" name="mvntest" duration-ms="15423" started-at="2020-03-02T12:41:52Z" finished-at="2020-03-02T12:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mvntest -->
+      </class> <!-- createhome.Testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
